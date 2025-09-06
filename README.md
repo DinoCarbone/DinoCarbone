@@ -1,16 +1,29 @@
-## Hi there 👋
+# DinoCarbone
 
-<!--
-**DinoCarbone/DinoCarbone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎮 Games
+- [ ] FlappyBird
+- [ ] FlappyDunk  
+- [ ] GeometryJump
+- [ ] HeadBall
+- [ ] CircleSpin
+- [ ] ColorShot
 
-Here are some ideas to get you started:
+## 🏗️ Build & Simulation
+- [ ] AiGameTycoon
+- [ ] BildUrbanClans
+- [ ] BuildPixelStar
+- [ ] BuildStatistic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Development Tools
+- [ ] AlawenirDev
+- [ ] ArProjectDev
+- [ ] desktop-tutorial
+- [ ] DocoleTelegram
+
+## 🌐 Applications
+- [ ] Appledore
+- [ ] AlawenirBuild
+- [ ] ArBuild
+
+## 🎯 Other Projects
+- [ ] Cyber-Dungeons
