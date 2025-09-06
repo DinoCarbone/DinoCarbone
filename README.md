@@ -1,7 +1,7 @@
 # DinoCarbone
 
 ## 🎮 Alavenir
-- [ ] Appledor
+- [ ] Appledore
 
 ## 🔧 Bytebit-LTD
 - [ ] AiGameTycoon
