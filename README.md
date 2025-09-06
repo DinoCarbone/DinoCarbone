@@ -3,15 +3,12 @@
 ## 🎮 Alavenir
 - [ ] Appledor
 
-## 🔧 Development Tools
-- [ ] AlawenirDev
-- [ ] ArProjectDev
-- [ ] DocoleTelegram
+## 🔧 Bytebit-LTD
+- [ ] AiGameTycoon
+- [ ] UrbanClans
 
-## 🌐 Applications
-- [ ] Appledore
-- [ ] AlawenirBuild
-- [ ] ArBuild
+## 🌐 Tg-Lottery-Project
+- [ ] More than 10 games in one app!
 
 ## 🎯 Other Projects
-- [ ] Cyber-Dungeons
+- [ ] Contact me in Telegram for cooperation
