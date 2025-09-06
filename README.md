@@ -1,12 +1,7 @@
 # DinoCarbone
 
-## 🎮 Games
-- [ ] FlappyBird
-- [ ] FlappyDunk  
-- [ ] GeometryJump
-- [ ] HeadBall
-- [ ] CircleSpin
-- [ ] ColorShot
+## 🎮 Alavenir
+- [ ] Appledor
 
 ## 🔧 Development Tools
 - [ ] AlawenirDev
