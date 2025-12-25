@@ -9,5 +9,5 @@ Google Play: https://play.google.com/store/apps/details?id=com.DinoCarbone.Apple
 ## 🎮 Self Projects
 - [ ] Chest Of Gold  
 Telegram mini app with daily game draws. https://t.me/chest_of_goldbot
-- [ ] Emoland
+- [ ] Emoland  
 Telegram mini app for developing emotional intelligence in children. https://t.me/emoland_game_bot/emoland
